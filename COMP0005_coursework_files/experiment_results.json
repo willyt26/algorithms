@@ -1,0 +1,482 @@
+[
+  {
+    "structure_name": "ScapegoatTree",
+    "size": 100,
+    "pattern": "random",
+    "insert_time": 0.00016696678940206767,
+    "search_time": 2.610820811241865e-05,
+    "found_count": 100
+  },
+  {
+    "structure_name": "AVLTree",
+    "size": 100,
+    "pattern": "random",
+    "insert_time": 0.00019629159942269325,
+    "search_time": 2.772519364953041e-05,
+    "found_count": 100
+  },
+  {
+    "structure_name": "TwoThreeTree",
+    "size": 100,
+    "pattern": "random",
+    "insert_time": 0.00014128340408205985,
+    "search_time": 4.777517169713974e-05,
+    "found_count": 100
+  },
+  {
+    "structure_name": "ScapegoatTree",
+    "size": 100,
+    "pattern": "sorted",
+    "insert_time": 0.00026198341511189937,
+    "search_time": 3.9308401755988595e-05,
+    "found_count": 100
+  },
+  {
+    "structure_name": "AVLTree",
+    "size": 100,
+    "pattern": "sorted",
+    "insert_time": 0.0002096082316711545,
+    "search_time": 2.8800033032894134e-05,
+    "found_count": 100
+  },
+  {
+    "structure_name": "TwoThreeTree",
+    "size": 100,
+    "pattern": "sorted",
+    "insert_time": 0.00015730820596218109,
+    "search_time": 4.754157271236181e-05,
+    "found_count": 100
+  },
+  {
+    "structure_name": "ScapegoatTree",
+    "size": 100,
+    "pattern": "reverse_sorted",
+    "insert_time": 0.0002759419847279787,
+    "search_time": 2.2775167599320413e-05,
+    "found_count": 100
+  },
+  {
+    "structure_name": "AVLTree",
+    "size": 100,
+    "pattern": "reverse_sorted",
+    "insert_time": 0.00019392517860978843,
+    "search_time": 2.717499155551195e-05,
+    "found_count": 100
+  },
+  {
+    "structure_name": "TwoThreeTree",
+    "size": 100,
+    "pattern": "reverse_sorted",
+    "insert_time": 0.00014203321188688278,
+    "search_time": 4.9358000978827477e-05,
+    "found_count": 100
+  },
+  {
+    "structure_name": "ScapegoatTree",
+    "size": 100,
+    "pattern": "nearly_sorted",
+    "insert_time": 0.00023599178530275822,
+    "search_time": 2.284175716340542e-05,
+    "found_count": 100
+  },
+  {
+    "structure_name": "AVLTree",
+    "size": 100,
+    "pattern": "nearly_sorted",
+    "insert_time": 0.0002105581806972623,
+    "search_time": 2.6441598311066628e-05,
+    "found_count": 100
+  },
+  {
+    "structure_name": "TwoThreeTree",
+    "size": 100,
+    "pattern": "nearly_sorted",
+    "insert_time": 0.0001479248283430934,
+    "search_time": 5.04249706864357e-05,
+    "found_count": 100
+  },
+  {
+    "structure_name": "ScapegoatTree",
+    "size": 1000,
+    "pattern": "random",
+    "insert_time": 0.001678533456288278,
+    "search_time": 0.00036388318985700605,
+    "found_count": 1000
+  },
+  {
+    "structure_name": "AVLTree",
+    "size": 1000,
+    "pattern": "random",
+    "insert_time": 0.002867274987511337,
+    "search_time": 0.0004173666005954146,
+    "found_count": 1000
+  },
+  {
+    "structure_name": "TwoThreeTree",
+    "size": 1000,
+    "pattern": "random",
+    "insert_time": 0.0020755000179633496,
+    "search_time": 0.0007949332008138299,
+    "found_count": 1000
+  },
+  {
+    "structure_name": "ScapegoatTree",
+    "size": 1000,
+    "pattern": "sorted",
+    "insert_time": 0.004368675220757723,
+    "search_time": 0.00030965839978307484,
+    "found_count": 1000
+  },
+  {
+    "structure_name": "AVLTree",
+    "size": 1000,
+    "pattern": "sorted",
+    "insert_time": 0.0028420581948012114,
+    "search_time": 0.00035892499145120384,
+    "found_count": 1000
+  },
+  {
+    "structure_name": "TwoThreeTree",
+    "size": 1000,
+    "pattern": "sorted",
+    "insert_time": 0.002332191588357091,
+    "search_time": 0.0007397499866783619,
+    "found_count": 1000
+  },
+  {
+    "structure_name": "ScapegoatTree",
+    "size": 1000,
+    "pattern": "reverse_sorted",
+    "insert_time": 0.004589250194840133,
+    "search_time": 0.0002987664192914963,
+    "found_count": 1000
+  },
+  {
+    "structure_name": "AVLTree",
+    "size": 1000,
+    "pattern": "reverse_sorted",
+    "insert_time": 0.0028695586370304227,
+    "search_time": 0.0003840832272544503,
+    "found_count": 1000
+  },
+  {
+    "structure_name": "TwoThreeTree",
+    "size": 1000,
+    "pattern": "reverse_sorted",
+    "insert_time": 0.001911233994178474,
+    "search_time": 0.0007384499767795205,
+    "found_count": 1000
+  },
+  {
+    "structure_name": "ScapegoatTree",
+    "size": 1000,
+    "pattern": "nearly_sorted",
+    "insert_time": 0.003940891637466848,
+    "search_time": 0.0003309749998152256,
+    "found_count": 1000
+  },
+  {
+    "structure_name": "AVLTree",
+    "size": 1000,
+    "pattern": "nearly_sorted",
+    "insert_time": 0.003189374995417893,
+    "search_time": 0.0004097498022019863,
+    "found_count": 1000
+  },
+  {
+    "structure_name": "TwoThreeTree",
+    "size": 1000,
+    "pattern": "nearly_sorted",
+    "insert_time": 0.002361491625197232,
+    "search_time": 0.0007696166168898344,
+    "found_count": 1000
+  },
+  {
+    "structure_name": "ScapegoatTree",
+    "size": 10000,
+    "pattern": "random",
+    "insert_time": 0.021916908421553673,
+    "search_time": 0.0054813418071717026,
+    "found_count": 10000
+  },
+  {
+    "structure_name": "AVLTree",
+    "size": 10000,
+    "pattern": "random",
+    "insert_time": 0.039768133382312956,
+    "search_time": 0.0065889663994312285,
+    "found_count": 10000
+  },
+  {
+    "structure_name": "TwoThreeTree",
+    "size": 10000,
+    "pattern": "random",
+    "insert_time": 0.029118274990469217,
+    "search_time": 0.012357041775248944,
+    "found_count": 10000
+  },
+  {
+    "structure_name": "ScapegoatTree",
+    "size": 10000,
+    "pattern": "sorted",
+    "insert_time": 0.06538420021533967,
+    "search_time": 0.0039042084012180568,
+    "found_count": 10000
+  },
+  {
+    "structure_name": "AVLTree",
+    "size": 10000,
+    "pattern": "sorted",
+    "insert_time": 0.03830231681931764,
+    "search_time": 0.005003250017762184,
+    "found_count": 10000
+  },
+  {
+    "structure_name": "TwoThreeTree",
+    "size": 10000,
+    "pattern": "sorted",
+    "insert_time": 0.03206703325267881,
+    "search_time": 0.011153083597309887,
+    "found_count": 10000
+  },
+  {
+    "structure_name": "ScapegoatTree",
+    "size": 10000,
+    "pattern": "reverse_sorted",
+    "insert_time": 0.06746658319607376,
+    "search_time": 0.00394169979263097,
+    "found_count": 10000
+  },
+  {
+    "structure_name": "AVLTree",
+    "size": 10000,
+    "pattern": "reverse_sorted",
+    "insert_time": 0.03755785799585283,
+    "search_time": 0.004979941807687282,
+    "found_count": 10000
+  },
+  {
+    "structure_name": "TwoThreeTree",
+    "size": 10000,
+    "pattern": "reverse_sorted",
+    "insert_time": 0.024711608211509882,
+    "search_time": 0.010879433387890458,
+    "found_count": 10000
+  },
+  {
+    "structure_name": "ScapegoatTree",
+    "size": 10000,
+    "pattern": "nearly_sorted",
+    "insert_time": 0.0578137167962268,
+    "search_time": 0.004110341984778642,
+    "found_count": 10000
+  },
+  {
+    "structure_name": "AVLTree",
+    "size": 10000,
+    "pattern": "nearly_sorted",
+    "insert_time": 0.041245008422993126,
+    "search_time": 0.005393066420219838,
+    "found_count": 10000
+  },
+  {
+    "structure_name": "TwoThreeTree",
+    "size": 10000,
+    "pattern": "nearly_sorted",
+    "insert_time": 0.031042325007729233,
+    "search_time": 0.010950316605158151,
+    "found_count": 10000
+  },
+  {
+    "structure_name": "ScapegoatTree",
+    "size": 100000,
+    "pattern": "random",
+    "insert_time": 0.27403833318967374,
+    "search_time": 0.07797295860946178,
+    "found_count": 100000
+  },
+  {
+    "structure_name": "AVLTree",
+    "size": 100000,
+    "pattern": "random",
+    "insert_time": 0.5097869163844735,
+    "search_time": 0.09081723338458687,
+    "found_count": 100000
+  },
+  {
+    "structure_name": "TwoThreeTree",
+    "size": 100000,
+    "pattern": "random",
+    "insert_time": 0.3693121584132314,
+    "search_time": 0.18747259138617664,
+    "found_count": 100000
+  },
+  {
+    "structure_name": "ScapegoatTree",
+    "size": 100000,
+    "pattern": "sorted",
+    "insert_time": 0.8443390329601244,
+    "search_time": 0.048669916368089615,
+    "found_count": 100000
+  },
+  {
+    "structure_name": "AVLTree",
+    "size": 100000,
+    "pattern": "sorted",
+    "insert_time": 0.4685731334146112,
+    "search_time": 0.0621157166082412,
+    "found_count": 100000
+  },
+  {
+    "structure_name": "TwoThreeTree",
+    "size": 100000,
+    "pattern": "sorted",
+    "insert_time": 0.3991850081831217,
+    "search_time": 0.14087858379352838,
+    "found_count": 100000
+  },
+  {
+    "structure_name": "ScapegoatTree",
+    "size": 100000,
+    "pattern": "reverse_sorted",
+    "insert_time": 0.8513906495645642,
+    "search_time": 0.04784367519896478,
+    "found_count": 100000
+  },
+  {
+    "structure_name": "AVLTree",
+    "size": 100000,
+    "pattern": "reverse_sorted",
+    "insert_time": 0.4614222416188568,
+    "search_time": 0.06266165818087757,
+    "found_count": 100000
+  },
+  {
+    "structure_name": "TwoThreeTree",
+    "size": 100000,
+    "pattern": "reverse_sorted",
+    "insert_time": 0.2978174747899175,
+    "search_time": 0.1417228918056935,
+    "found_count": 100000
+  },
+  {
+    "structure_name": "ScapegoatTree",
+    "size": 100000,
+    "pattern": "nearly_sorted",
+    "insert_time": 0.764483708422631,
+    "search_time": 0.056510224984958765,
+    "found_count": 100000
+  },
+  {
+    "structure_name": "AVLTree",
+    "size": 100000,
+    "pattern": "nearly_sorted",
+    "insert_time": 0.5332033582264557,
+    "search_time": 0.07197335024829954,
+    "found_count": 100000
+  },
+  {
+    "structure_name": "TwoThreeTree",
+    "size": 100000,
+    "pattern": "nearly_sorted",
+    "insert_time": 0.3955077667487785,
+    "search_time": 0.16540596636477858,
+    "found_count": 100000
+  },
+  {
+    "structure_name": "ScapegoatTree",
+    "size": 1000000,
+    "pattern": "random",
+    "insert_time": 4.430719174793921,
+    "search_time": 1.8913946082117037,
+    "found_count": 1000000
+  },
+  {
+    "structure_name": "AVLTree",
+    "size": 1000000,
+    "pattern": "random",
+    "insert_time": 7.47242969176732,
+    "search_time": 1.9210301665822045,
+    "found_count": 1000000
+  },
+  {
+    "structure_name": "TwoThreeTree",
+    "size": 1000000,
+    "pattern": "random",
+    "insert_time": 5.8741107998182995,
+    "search_time": 3.944795491383411,
+    "found_count": 1000000
+  },
+  {
+    "structure_name": "ScapegoatTree",
+    "size": 1000000,
+    "pattern": "sorted",
+    "insert_time": 10.882074858411215,
+    "search_time": 0.5934704581974074,
+    "found_count": 1000000
+  },
+  {
+    "structure_name": "AVLTree",
+    "size": 1000000,
+    "pattern": "sorted",
+    "insert_time": 5.684966941410676,
+    "search_time": 0.7654707250185311,
+    "found_count": 1000000
+  },
+  {
+    "structure_name": "TwoThreeTree",
+    "size": 1000000,
+    "pattern": "sorted",
+    "insert_time": 4.8355156584409995,
+    "search_time": 1.7343076499877497,
+    "found_count": 1000000
+  },
+  {
+    "structure_name": "ScapegoatTree",
+    "size": 1000000,
+    "pattern": "reverse_sorted",
+    "insert_time": 10.940318974805995,
+    "search_time": 0.5887876583728939,
+    "found_count": 1000000
+  },
+  {
+    "structure_name": "AVLTree",
+    "size": 1000000,
+    "pattern": "reverse_sorted",
+    "insert_time": 5.545973916607909,
+    "search_time": 0.7677560579963029,
+    "found_count": 1000000
+  },
+  {
+    "structure_name": "TwoThreeTree",
+    "size": 1000000,
+    "pattern": "reverse_sorted",
+    "insert_time": 3.599134175200015,
+    "search_time": 1.7205799252027645,
+    "found_count": 1000000
+  },
+  {
+    "structure_name": "ScapegoatTree",
+    "size": 1000000,
+    "pattern": "nearly_sorted",
+    "insert_time": 10.356585058430209,
+    "search_time": 0.8507961499970407,
+    "found_count": 1000000
+  },
+  {
+    "structure_name": "AVLTree",
+    "size": 1000000,
+    "pattern": "nearly_sorted",
+    "insert_time": 6.67324221660383,
+    "search_time": 1.0489533749874682,
+    "found_count": 1000000
+  },
+  {
+    "structure_name": "TwoThreeTree",
+    "size": 1000000,
+    "pattern": "nearly_sorted",
+    "insert_time": 5.1071485331980515,
+    "search_time": 2.339680833206512,
+    "found_count": 1000000
+  }
+]
